@@ -21,7 +21,7 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
 header {
   background: #234;
 }
@@ -43,6 +43,7 @@ li a {
 .logo a {
   color: #fff;
   letter-spacing: 0.3rem;
+  font-size: 1.2rem;
 }
 .menu a.router-link-exact-active {
   color: #4b8;
