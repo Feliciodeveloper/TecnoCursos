@@ -6,9 +6,15 @@
       </div>
       <div class="menu">
         <ul>
-          <li><router-link to="/">Home</router-link></li>
-          <li><router-link to="cursos">Cursos</router-link></li>
-          <li><router-link to="contato">Contato</router-link></li>
+          <li>
+            <router-link to="/">Home</router-link>
+          </li>
+          <li>
+            <router-link to="/cursos">Cursos</router-link>
+          </li>
+          <li>
+            <router-link to="/contato">Contato</router-link>
+          </li>
         </ul>
       </div>
     </nav>

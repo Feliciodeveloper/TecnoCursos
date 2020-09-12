@@ -45,32 +45,39 @@ h3 {
 }
 .btn {
   cursor: pointer;
-  background: #2b8;
-  padding: 15px 30px;
-  display: inline-block;
+  border: solid 1px #2b8;
+  text-align: center;
+  padding: 15px 0;
+  display: block;
   margin-top: 25px;
   border-radius: 5px;
-  color: white;
   box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.1), 0px 3px 10px rgba(0, 0, 0, 0.2);
 }
 .avaliacoes {
-  margin-top: 25px;
+  margin-top: 50px;
 }
 .avaliacoes ul li {
-  margin: 15px 0;
-  list-style: none;
+  margin: 25px 0;
+  list-style-type: disc;
+  text-align: justify;
 }
 .avaliacoes ul li h5 {
-  font-size: 1.125rem;
+  font-size: 1rem;
   font-weight: normal;
+  font-weight: 600;
 }
 .avaliacoes p {
   margin-top: 10px;
+  font-size: 0.725rem;
 }
 .img {
   width: 500px;
 }
 .img img {
   max-width: 100%;
+}
+h2 {
+  margin-bottom: 0;
+  text-align: center;
 }
 </style>
