@@ -1,5 +1,5 @@
 <h1 align="center">Tecno-cursos</h1>
-_Status: Completo_
+<i>Status: completo</i>
 
 ## Descrição
 
