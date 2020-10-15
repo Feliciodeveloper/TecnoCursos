@@ -1,24 +1,67 @@
-# tecno-cursos
+<h1 align="center">Tecno-cursos</h1>
+_Status: Completo_
 
-## Project setup
+## Descrição
+
+Projeto desenvolvido para fins educacionais, afim de consolidar todo o conteudo absorvido durante os estudos com mini-cursos, blogs, publicações, documentações e livros.
+
+## Sobre
+
+Front-end simples para um projeto de gerenciamento de cursos, onde esta consumindo uma api false executado pelo json-server.
+
+### Instalação
+
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compilação
+
+###### Developer
+
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+###### Production
+
 ```
 npm run build
 ```
 
-### Lints and fixes files
+###### api
+
 ```
-npm run lint
+json-server api.json
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Recursos
+
+- [x] Lista de cursos
+- [x] Video-aulas dos cursos
+- [x] Comentarios da plataforma
+- [x] Contato
+
+### Tecnologias
+
+- Vue.js
+- Javascript
+- HTML
+- Css
+
+### Projeto
+
+<table>
+<tr>
+<td><img src="./print/print01.png" height="200px" style="display: inline-block, border: 1px solid black"></td>
+<td><img src="./print/print02.png" height="200px" style="display: inline-block, border: 1px solid black"></td>
+<td><img src="./print/print03.png" height="200px" style="display: inline-block, border: 1px solid black"></td>   
+<tr>
+<td><img src="./print/print04.png" height="200px" style="display: inline-block, border: 1px solid black"></td>
+<td><img src="./print/print05.png" height="200px" style="display: inline-block, border: 1px solid black"></td>   
+<tr>
+</table>
+
+### Contribuição
+
+- Felicio F. M. Neto
